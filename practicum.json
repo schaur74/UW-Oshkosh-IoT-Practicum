@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "uw-oshkosh-final-practicum",
+  "private_key_id": "ded8bf0f18375e6c3aa78e95bd3859cd2a07f776",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDT6vUBCQ4Ctutl\nRlfT8WooWWxY3UmZKSFRA3yqHgA+h4iApLPuIuNQ1gOX9oAvZeAC6weOwomOTYAq\nid+7TxZ2V7RxsBj0hTcRbPd0mnxc8nN1PTbDCEk4nFvOXm6SX/mczXAacpeIt4Op\ndrd+qi65vCnE4GB7XpjOXOLhW0tnnvOPrkEV3EUEm0Ei7ODPmtX8fAtqdyCbdHUJ\nsw18PY1Z8KU8hGktiGrMEM0kwZ3laEzvkNNLni9p8zV+k3wu9j6uEVV9b4PgHHXL\nrNzhAqWN7xTqyz0AKRfeVLvZj5G4AwmT4wSASbqPHjzffscurEujUWl8ROYIlbZX\nxvQOjIjHAgMBAAECggEAAWtmfr5HyL7e7su81N+eHW0T67h3wL3kyj0ivaT7zW9s\n+6eeyO6U5Tq5xW/SRf8BtCNM5qjo8PoV7LMFu6R4+wv1WnmagTDPQJ+hPLe4M4sw\nOM3TKxVIIEfz2XsKdJKOAn3hzVuNJk5MZHs2GXQcYgQfp4D1RH5Kub8niejppWUJ\nD6uV6D35F5xI1UNl+9JjVgku+Fk7p9trjdSMSjhlt+k4MMTlAvVCytaHnKzguCHW\nDQd2oNU4mJQtqMIHVcUO8L39G6pLKGOKqU1SXyystv9q2gv5aTcRZ5JNZf064Z6C\nPdvuOoTp2mE22+n2KObC43ZYGLEmVt3d6u0wK3fZQQKBgQDtGovwejhwvOgn/vQb\nliINjX7zBIMHXYa7uJLpGmWEFHHSJsf6gYUqQz/7u1tQnZ4givbXRu8RRWMrRDFI\num+Z2wErOLJjyFVs1HsImPHi+VoygzCBvUgKhtdpPhmQgMTZ5xEUPrcd1kp/LroU\nqczPsX6y4MtB9EHY9qDgL1lZ5wKBgQDkzo+b7xlt48Mq5gYJ6DK2sSn+bf/CTQvO\nv0e5zVMdgG3arCMxhx2jnHRrPfYbtRjKgOApVKmejROxC1S8Bz+rWvoXz0rutfwS\nYxYHTwk+Zdpdwq0gCN5bsXbs+GXAkybxEG/rVCaDec7vxB3gFYnico/ovJIdXRmt\nGVxA+W4+IQKBgByAYm4H4xz6OFYGecWPKIzEg4wm8LFD9tw99br7p1RXOM9wRf3A\n8AcCioByJynrqIR07/M03awP0Tn0OpBpiNzPzLYrXJZOEKbCa/++kuUb4FHOH1iZ\nLj3Fs8M86cnLEN64vf7XAyAdEFt1fHzbZHla9sX967ED8Z5pFzGbv3vlAoGAYm3d\n56XvGY/uqKi1llN2ZZNHTnXBnbOJTdKJp4uFot5Z48VDio3mmTi3+F56XicE2DCi\nvgT2xwdHnlUSiaTQpgWIKu/4+0H8g2hu1IwSnO4yBz21Pl+yUF3CnGSrWTG0geWh\nT+oue0bOV+TVOU3quCiycduVO96OKiILxsPGwiECgYEAhedIfm8Uk+bjVrah+2nt\nsFouNZij832CFvgxUm/ZJjZm3PL37lofYjrb8EbXAk+KpIVIXL7EjYptCz1DMjFh\npaWGQnKClY/3Qes2XmWbs1DcfZLsM3Lehgh+TVCz59KjoLSvdrDX0aF+c3XLEqSY\nwiy0re3mCEHGJX1Q4ICyPcA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-cgpt9@uw-oshkosh-final-practicum.iam.gserviceaccount.com",
+  "client_id": "118354330398940189996",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-cgpt9%40uw-oshkosh-final-practicum.iam.gserviceaccount.com"
+}

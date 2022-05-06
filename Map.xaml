@@ -1,0 +1,11 @@
+﻿<Window x:Class="Practicum.Map"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF" 
+        Title="MapWindow" Height="525" Width="525">
+
+    <Grid>
+        <m:Map x:Name="myMap" CredentialsProvider="n23cXLEGiRjHX2QxH7fP~8-rN9kUhQd5Do027CjoJDw~AvJd0BTrnCupczYTNno_huXhAKw0lXrwRps6z8RoaM1R9FVKet_UGKITXIq4XAd3" Center="44.02083325, -88.5508" ZoomLevel="15"/>
+        <TextBox Name ="currentDeviceData" HorizontalAlignment="Left" Margin="0,359,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="150" IsReadOnly="true"/>
+    </Grid>
+</Window>
